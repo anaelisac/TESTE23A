@@ -22,7 +22,7 @@
 
 ### :mag_right: Sobre o projeto:
  <p>
-  Avaliação de cadeias produtivas de Petróleo, Óleo e Gás de municípios da RMVALE por meio de coleta, tratamento e análise de dados.
+  Análise qualitativa das con.
  </p>
 
 <a href="#inicio">[Voltar ao início]</a>
