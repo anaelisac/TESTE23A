@@ -56,8 +56,11 @@ CARACTERIZAÇÃO DA CADEIA PRODUTIVA POR MEIO DA COLETA, TRATAMENTO E APRESENTA�
  
  ### :hammer_and_wrench: Ferramentas e Tecnologias
  - GitHub
- - Conceito de Posicionamento Lógico: R.H. BALLOU
+ - Phyton
+ - Collab
+ - JiraSoftware
  - 5W2H 
+ - 5 sensos
  - Microsoft Power Platform
   
  <a href="#inicio">[Voltar ao início]</a>
