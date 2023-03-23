@@ -81,9 +81,9 @@ CARACTERIZAÇÃO DA CADEIA PRODUTIVA POR MEIO DA COLETA, TRATAMENTO E APRESENTA�
 
 Sprint ID | Data | Tag | Status
 ----------|------|-----|-------
-#1 | 29.08.22 - 19.09.22 |  <p><a href="Link">1ª Sprint</a></p> | EM ANDAMENTO
-#2 | 19.09.22 - 18.10.22 | <p><a href="Link">2ª Sprint</a></p> | A INICIAR
-#3 | 19.10.22 - 17.11.22 | <p><a href="Link">3ª Sprint</a></p> | A INICIAR
-#4 | 18.11.22 - 27.11.22 | <p><a href="lINK">4ª Sprint</a></p> | A INICIAR
+#1 | 29.08.22 - 03.04.23 |  <p><a href="Link">1ª Sprint</a></p> | EM ANDAMENTO
+#2 | 04.04.23 - 24.04.22 | <p><a href="Link">2ª Sprint</a></p> | A INICIAR
+#3 | 25.04.22 - 15.05.22 | <p><a href="Link">3ª Sprint</a></p> | A INICIAR
+#4 | 16.05.22 - 05.06.22 | <p><a href="lINK">4ª Sprint</a></p> | A INICIAR
 
 <a href="#inicio">[Voltar ao início]</a>
