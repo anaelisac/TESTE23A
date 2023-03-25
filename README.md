@@ -22,7 +22,7 @@
 
 ### :mag_right: Sobre o projeto:
  <p>
-  Análise qualitativa das con.
+  Acompanhamento do processo de aprendizagem por projeto integrador analisando a cadeia produtiva do setor de petróleo, óleo e gás na região do Vale do Paraíba. Trabalho pertencente a matéria da API do 1° Semestre de Logística/2022 pela FATEC SJC. 
  </p>
 
 <a href="#inicio">[Voltar ao início]</a>
