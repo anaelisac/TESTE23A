@@ -1,6 +1,6 @@
 # <br id="inicio">
 
-<h1 align="center">Título da nossa APi <br><sub>API do 2º do Curso de Logística (1º semestre de 2023) da FATEC São José dos Campos - Prof. Jessen Vidal </h1></sub>
+<h1 align="center">Título da nossa APi <br><sub>API do 2º Semestre do Curso de Logística (1º semestre de 2023) da FATEC São José dos Campos - Prof. Jessen Vidal </h1></sub>
  <p align="center">
      <a href="#sobre">Sobre</a> • 
      <a href="#requisitos">Requisitos</a> •
