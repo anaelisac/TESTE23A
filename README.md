@@ -22,7 +22,7 @@
 
 ### :mag_right: Sobre o projeto:
  <p>
-  Projeto destinado à análise do Acompanhamento do processo de aprendizagem por projeto integrador analisando a cadeia produtiva do setor de petróleo, óleo e gás na região do Vale do Paraíba. Trabalho pertencente a matéria da API do 1° Semestre de Logística/2022 pela FATEC SJC. 
+  Projeto destinado ao estúdo estatístico, e análise qualitativa do transporte ferroviário no Brasil. Trabalho pertencente a matéria da API do 2° Semestre de Logística/2023-1 pela FATEC SJC. 
  </p>
 
 <a href="#inicio">[Voltar ao início]</a>
