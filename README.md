@@ -11,7 +11,7 @@
      <a href="#equipe">Equipe</a> 
      
 
- # Autores
+ # Autores do projeto
 
  ### :busts_in_silhouette: Equipe:
  Scrum Master | Product Owner | Dev | Dev | Dev | Dev |
