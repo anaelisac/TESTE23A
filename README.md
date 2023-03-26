@@ -8,8 +8,6 @@
      <a href="#techtools">Ferramentas e Tecnologias</a> •
      <a href="#estrutura-pastas">Estrutura digital do projeto </a> • 
      <a href="#entregas">Entregas</a> • 
-     <a href="#equipe">Equipe</a> 
-     
 
  # Autores do projeto
 
