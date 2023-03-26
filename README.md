@@ -71,7 +71,7 @@ ANÁLISE QUALITATIVA DAS FERROVIAS INDICANDO: GEOGRAFIA DA MALHA E ANÁLISE QUAL
 ### :bar_chart: Estrutura digital do projeto
  
 - **Camada de dados:** responsável pelo armazenamento dos dados coletados, essa camada aloca todas as informações em tabelas relacionais na nuvem provisionada pela Microsoft;
-- **Camada de aplicação:** nessa camada se encontram todas as aplicações que interagem com o usuário e
+- **Camada de aplicação:** nessa camada se encontram todas as aplicações que interagem com o usuário;
 - **Camada de usuário:** responsável pela interação do usuário com o sistema, por meio de uma interface gráfica que permita editar e consultar as informações contidas na base de dados.
 
 
