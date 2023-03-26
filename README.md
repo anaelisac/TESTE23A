@@ -1,6 +1,6 @@
 # <br id="inicio">
 
-<h1 align="center">Título da nossa APi <br><sub> </h1></sub>
+<h1 align="center">Estudo estatístico do transporte ferroviário de carga no território brasileiro. <br><sub> </h1></sub>
  <p align="center">
      <a href="#sobre">Sobre</a> • 
      <a href="#requisitos">Requisitos</a> •
@@ -22,7 +22,7 @@
 
 ### :mag_right: Sobre o projeto:
  <p>
-  Acompanhamento do processo de aprendizagem por projeto integrador analisando a cadeia produtiva do setor de petróleo, óleo e gás na região do Vale do Paraíba. Trabalho pertencente a matéria da API do 1° Semestre de Logística/2022 pela FATEC SJC. 
+  Projeto destinado à análise do Acompanhamento do processo de aprendizagem por projeto integrador analisando a cadeia produtiva do setor de petróleo, óleo e gás na região do Vale do Paraíba. Trabalho pertencente a matéria da API do 1° Semestre de Logística/2022 pela FATEC SJC. 
  </p>
 
 <a href="#inicio">[Voltar ao início]</a>
