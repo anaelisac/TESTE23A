@@ -19,3 +19,8 @@ Dados dispostos em formato de gráficos no MicrosoftPowerBI
 
 > Link direto para o protótipo da Sprint 1: https://tinyurl.com/AppSprint1
 
+# 5W2H
+
+Tabela de acompanhamento da evolução do projeto detalhado nas categorias: Atividade (What), Razão (Why), Local (Where), Momento (When), Responsável (Who), Meio (How), Tempo (How much time). E gráfico da evolução de tais dados 
+
+Link: <p><a href="https://github.com/anaelisac/TESTE23A/blob/1%C2%AA-Sprint/5W2H%20-%20Acompanhamento%20do%20Desenvolvimento%20da%20Equipe.pdf">5W2H</a></p> 
