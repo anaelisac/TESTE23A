@@ -1,10 +1,11 @@
 # Sprint 1:
->   Apresentação realizada no dia 14/09/22
+>   Data da apresentação: 03/04/2023
 
 **Objetivos:**
-* Protótipo de interação dos dados que permita caracterizar a cadeia produtiva escolhida (e.g, relacionar os principais produtos e serviços por municípios da RMVale)
-* Protótipo de coleta de dados automatizados
-* Apresentação da Cadeia Produtiva a ser trabalhada pelo grupo (Definida pelo Cliente)
+* Análise qualitativa das ferrovias indicando: 
+* Geografica da malha e análise qualitativa das concessões ferroviárias; 
+* Características das cargas movimentadas.
+
 
 # Cadeia Produtiva escolhida pelo cliente:
 A Cadeia Produtiva escolhida pelo cliente foi a do setor de Petróleo, Óleo e Gás. 
@@ -18,7 +19,7 @@ Analisaremos os dados de importação; exportação; volume/peso kg e valor FOB,
 * Garantinguetá.
 
 # Protótipo de Interação dos dados coletados:
-Dados coletados através do Comex Stats
+Dados coletados através do site da ANTT - Agência Nacional de Transportes Terrestres
 Interação disponilizada através de aplicação via Power Apps
 > Link direto para o protótipo da Sprint 1: https://tinyurl.com/AppSprint1
 
