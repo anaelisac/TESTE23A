@@ -9,8 +9,8 @@
 **Objetivos:**
  
  Análise qualitativa das ferrovias indicando: 
-- Geografia da malha e análise qualitativa das concessões ferroviárias; 
-- Características das cargas movimentadas.
+- Geografia da malha e análise qualitativa das concessões ferroviárias, ou seja, apresentar a situação em que se encontram as concessões atualmente;
+- Características das cargas movimentadas, isto é, identificar os diferentes tipos de carga transportados através da malha ferroviária.
 
 
 # Protótipo de Interação dos dados coletados:
