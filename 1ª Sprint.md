@@ -3,8 +3,8 @@
 
 **Objetivos:**
 * Análise qualitativa das ferrovias indicando: 
-* Geografica da malha e análise qualitativa das concessões ferroviárias; 
-* Características das cargas movimentadas.
+- Geografica da malha e análise qualitativa das concessões ferroviárias; 
+- Características das cargas movimentadas.
 
 
 # Cadeia Produtiva escolhida pelo cliente:
