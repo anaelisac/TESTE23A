@@ -10,6 +10,7 @@
 
 # Protótipo de Interação dos dados coletados:
 Dados coletados através do site da ANTT - Agência Nacional de Transportes Terrestres, e tratados manualmente com utilização do Microsoft Excel
-Dados dispostos 
+Dados dispostos em formato de gráficos no MicrosoftPowerBI
+
 > Link direto para o protótipo da Sprint 1: https://tinyurl.com/AppSprint1
 
